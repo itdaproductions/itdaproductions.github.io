@@ -1,0 +1,57 @@
+.navbar {
+  background-color: rgb(231, 237, 233);
+}
+
+.navbar-brand {
+  font-size: 3rem !important;
+}
+
+.navbar-navigaters {
+  display: flex;
+
+  justify-content: flex-end;
+  /*add space between each a*/
+  padding-right: 1em;
+  margin-top: 1rem;
+}
+
+.navbar-navigaters a {
+  margin-right: 1rem;
+  /*increse text size*/
+  font-size: 1.3rem;
+  font-style: italic;
+  color: rgb(53, 53, 53);
+}
+
+.navbar-navigaters a:hover {
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+}
+
+.avatar {
+  width: 15rem;
+  height: 15rem;
+  margin-top: -9rem;
+}
+
+.navbar.navbar-light.custom-navbar {
+  margin-bottom: 0;
+  padding-top: 1rem;
+}
+
+#aboutme {
+    margin-top: 2rem;
+}
+
+.testimonials-slider *{
+  transform: none !important;
+  -webkit-transform: none !important;
+}
+
+.navImage img{
+  max-height: 4rem !important;
+  background: url("../../assets/img/navimage.jpg");
+  background-repeat: repeat-x !important;
+  opacity: 0.5;
+  z-index: 10;
+}
