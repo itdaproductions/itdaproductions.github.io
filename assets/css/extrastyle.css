@@ -55,3 +55,11 @@
   opacity: 0.5;
   z-index: 10;
 }
+
+#navbar-title{
+  color: rgb(255, 255, 255) !important;
+}
+
+#dropdown-text{
+  color: rgb(255, 255, 255) !important;
+}
