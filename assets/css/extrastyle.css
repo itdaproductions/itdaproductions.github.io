@@ -42,12 +42,12 @@
 #aboutme {
     margin-top: 2rem;
 }
-
+/*
 .testimonials-slider *{
   transform: none !important;
   -webkit-transform: none !important;
 }
-
+*/
 .navImage img{
   max-height: 4rem !important;
   background: url("../../assets/img/navimage.jpg");
