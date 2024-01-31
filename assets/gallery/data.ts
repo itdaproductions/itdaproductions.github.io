@@ -39,14 +39,14 @@ export const PortfolioGallery: GalleryData[] = [
     ],
   },
   {
-    directoryUrl: '3d',
-    directoryTitle: 'Desenhos 3d',
+    directoryUrl: 'digital_painting',
+    directoryTitle: 'Digital Painting',
     directoryDescription: "They don't suck, I swear",
     media: [
       {
-        url: '1.png',
-        title: 'This is a good title',
-        description: 'A beautiful landscape with mountains',
+        url: 'Poirot.png',
+        title: 'Poirot',
+        description: 'Poirot',
       },
     ],
   },
