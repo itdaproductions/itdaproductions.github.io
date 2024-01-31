@@ -2,6 +2,7 @@ export type GalleryData = {
   directoryUrl: string;
   directoryTitle: string;
   directoryDescription?: string;
+  directoryDisplayMedia?: boolean;
   media: GalleryFiles[];
 };
 
@@ -17,6 +18,7 @@ export const PortfolioGallery: GalleryData[] = [
     directoryUrl: 'music',
     directoryTitle: 'data-music-directory-title',
     directoryDescription: 'data-music-directory-desc',
+    directoryDisplayMedia: false,
     media: [
       {
         url: 'https://www.youtube.com/embed/hIrF2mh1g8U',
