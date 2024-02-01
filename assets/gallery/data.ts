@@ -44,7 +44,7 @@ export const PortfolioGallery: GalleryData[] = [
     directoryDescription: "They don't suck, I swear",
     media: [
       {
-        url: 'Poirot.png',
+        url: 'Poirot.jpg',
         title: 'Poirot',
         description: 'Poirot',
       },
