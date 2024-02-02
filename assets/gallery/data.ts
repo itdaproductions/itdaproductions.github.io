@@ -21,7 +21,7 @@ export const PortfolioGallery: GalleryData[] = [
     directoryDisplayMedia: false,
     media: [
       {
-        url: 'https://www.youtube.com/embed/n2ciUNuaOm4',
+        url: 'https://www.youtube.com/embed/hIrF2mh1g8U',
         title: 'This is a good title',
         description: 'A beautiful landscape with mountains',
         type: 'video',
@@ -39,14 +39,14 @@ export const PortfolioGallery: GalleryData[] = [
     ],
   },
   {
-    directoryUrl: 'digital_painting',
-    directoryTitle: 'Digital Painting',
+    directoryUrl: '3d',
+    directoryTitle: 'Desenhos 3d',
     directoryDescription: "They don't suck, I swear",
     media: [
       {
-        url: 'Poirot.jpg',
-        title: 'Poirot',
-        description: 'Poirot',
+        url: '1.png',
+        title: 'This is a good title',
+        description: 'A beautiful landscape with mountains',
       },
     ],
   },
