@@ -21,7 +21,7 @@ export const PortfolioGallery: GalleryData[] = [
     directoryDisplayMedia: false,
     media: [
       {
-        url: 'https://www.youtube.com/embed/hIrF2mh1g8U',
+        url: 'https://www.youtube.com/embed/n2ciUNuaOm4',
         title: 'This is a good title',
         description: 'A beautiful landscape with mountains',
         type: 'video',
