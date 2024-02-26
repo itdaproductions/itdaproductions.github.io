@@ -39,12 +39,37 @@ export const PortfolioGallery: GalleryData[] = [
     ],
   },
   {
-    directoryUrl: '3d',
-    directoryTitle: 'Desenhos 3d',
+    directoryUrl: 'dp',
+    directoryTitle: 'Digital Painting',
     directoryDescription: "They don't suck, I swear",
     media: [
       {
-        url: '1.png',
+        url: 'Poirot.jpg',
+        title: 'This is a good title',
+        description: 'A beautiful landscape with mountains',
+      },
+      {
+        url: 'The Polarity of Drowning.jpg',
+        title: 'This is a good title',
+        description: 'A beautiful landscape with mountains',
+      },
+      {
+        url: 'Scraptrap.jpg',
+        title: 'This is a good title',
+        description: 'A beautiful landscape with mountains',
+      },
+      {
+        url: 'Red.jpg',
+        title: 'This is a good title',
+        description: 'A beautiful landscape with mountains',
+      },
+      {
+        url: 'Powder.jpg',
+        title: 'This is a good title',
+        description: 'A beautiful landscape with mountains',
+      },
+      {
+        url: 'Self-Portrait.jpg',
         title: 'This is a good title',
         description: 'A beautiful landscape with mountains',
       },
@@ -53,10 +78,10 @@ export const PortfolioGallery: GalleryData[] = [
   {
     directoryUrl: 'sculpture',
     directoryTitle: 'Sculpture',
-    directoryDescription: "They DO suck, I swear",
+    directoryDescription: "They really DO suck, I swear",
     media: [
       {
-        url: '1.png',
+        url: 'Old Man.jpg',
         title: 'This is a good title',
         description: 'A beautiful landscape with mountains',
       },
